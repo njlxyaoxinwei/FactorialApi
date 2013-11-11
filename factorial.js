@@ -25,7 +25,7 @@ function addzeros(count, s)
 }
 function factorial(num)
 {
-	var max = 10000;
+	var max = 13232;
 	var number =  Number(num);//
 	if (number > max || number < 0 || !(number%1===0)) {return "Are you kidding me?"}
 	else {
