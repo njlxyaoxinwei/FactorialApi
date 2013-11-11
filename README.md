@@ -1,3 +1,3 @@
 FactorialApi
 ============
-get the factorial of a nonnegative integer
+gets the factorial of a nonnegative integer
